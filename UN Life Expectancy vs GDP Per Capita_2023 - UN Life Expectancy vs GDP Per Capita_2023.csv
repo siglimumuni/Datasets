@@ -1,0 +1,167 @@
+Country,Life Expectancy,GDP per Capita,Population,Region
+Afghanistan,66,1358,40578846,Asia
+Albania,79,12978,2827615,Europe
+Algeria,76,13506,45477391,Africa
+Angola,64,6119,35635028,Africa
+Argentina,76,18292,45407904,South America
+Armenia,75,13838,2880883,Asia
+Australia,83,52049,26200987,Oceania
+Austria,81,43793,9064679,Europe
+Azerbaijan,74,17683,10295307,Asia
+Bahrain,81,38652,1533459,Asia
+Bangladesh,74,4926,169384890,Asia
+Barbados,76,11546,282324,North America
+Belarus,74,18700,9173241,Europe
+Belgium,81,41872,11641813,Europe
+Benin,60,2477,13759507,Africa
+Bolivia,67,6481,12077155,South America
+Bosnia and Herzegovina,77,12143,3204805,Europe
+Botswana,69,16352,2439895,Africa
+Brazil,75,14640,210306411,South America
+Bulgaria,74,20592,6825863,Europe
+Burkina Faso,61,1705,22509037,Africa
+Burundi,63,717,13321101,Africa
+Cambodia,71,3944,17201717,Asia
+Cameroon,62,2812,27632771,Africa
+Canada,81,45530,38821260,North America
+Cape Verde,76,7203,519750,Africa
+Central African Republic,19,596,5098038,Africa
+Chad,55,1394,18455319,Africa
+Chile,79,22741,19553032,South America
+China,78,19238,1425179562,Asia
+Colombia,77,14469,51737944,South America
+Comoros,66,1900,834192,Africa
+Congo,65,4188,6035107,Africa
+Costa Rica,79,15497,5081765,North America
+Cote d'Ivoire,62,4012,30395003,Africa
+Croatia,78,26987,3907031,Europe
+Cuba,78,7649,11059821,North America
+Cyprus,80,31523,1331376,Europe
+Czechia,79,32247,10673216,Europe
+Czechoslovakia,,30641,15650000,Europe
+Democratic Republic of Congo,61,844,102396974,Africa
+Denmark,81,50690,5902898,Europe
+Djibouti,66,3623,1137100,Africa
+Dominica,71,8880,66850,North America
+Dominican Republic,74,17714,11230734,North America
+Ecuador,77,10124,17823900,South America
+Egypt,71,13205,112618251,Africa
+El Salvador,72,9219,6280316,North America
+Equatorial Guinea,63,22707,1803550,Africa
+Estonia,78,30067,1350092,Europe
+Eswatini,63,8522,1218921,Africa
+Ethiopia,67,2289,125384285,Africa
+Finland,81,40701,5569299,Europe
+France,82,39066,66277412,Europe
+Gabon,68,15721,2430752,Africa
+Gambia,65,2011,2636473,Africa
+Georgia,74,14360,3794783,Asia
+Germany,81,46648,84086228,Europe
+Ghana,65,4242,33149151,Africa
+Greece,80,25284,10412481,Europe
+Guatemala,71,7969,17847877,North America
+Guinea,60,1809,14055137,Africa
+Guinea-Bissau,64,1625,2105537,Africa
+Haiti,64,1546,11503604,North America
+Honduras,73,5187,10463881,North America
+Hong Kong,83,48289,7465914,Asia
+Hungary,76,29452,9684306,Europe
+Iceland,82,42146,380368,Europe
+India,72,7766,1425423212,Asia
+Indonesia,71,12802,278830529,Asia
+Iran,77,18473,89524247,Asia
+Iraq,72,13072,44070556,Asia
+Ireland,82,60257,5110013,Europe
+Israel,83,36649,9103144,Asia
+Italy,82,36224,59619106,Europe
+Jamaica,71,7482,2839151,North America
+Japan,84,38269,124997586,Asia
+Jordan,77,9151,11256268,Asia
+Kazakhstan,74,26492,20034612,Asia
+Kenya,64,3404,54252456,Africa
+Kuwait,79,71534,4589514,Asia
+Kyrgyzstan,71,5305,6955792,Asia
+Laos,69,7168,7559007,Asia
+Latvia,75,27220,1881058,Europe
+Lebanon,78,10341,5744494,Asia
+Lesotho,57,2313,2286112,Africa
+Liberia,62,811,5373296,Africa
+Libya,74,12755,7223804,Africa
+Lithuania,75,30863,2816922,Europe
+Luxembourg,82,55485,653316,Europe
+Madagascar,63,1367,30437263,Africa
+Malawi,66,1190,20568731,Africa
+Malaysia,75,26629,34695494,Asia
+Mali,60,1652,23072639,Africa
+Malta,82,34496,528194,Europe
+Mauritania,68,3680,4875645,Africa
+Mauritius,74,20643,1276134,Africa
+Mexico,74,16235,128613113,North America
+Moldova,72,6675,3039987,Europe
+Mongolia,72,13443,3386015,Asia
+Montenegro,76,20942,614650,Europe
+Morocco,75,8400,37329069,Africa
+Mozambique,63,1088,32656240,Africa
+Myanmar,67,5177,53756790,Asia
+Namibia,64,7979,2889668,Africa
+Nepal,70,3014,29715434,Asia
+Netherlands,82,49670,17904422,Europe
+New Zealand,81,38250,5131733,Oceania
+Nicaragua,74,5093,6730661,North America
+Niger,60,1008,25311977,Africa
+Nigeria,54,5070,223150906,Africa
+North Korea,74,1569,26328842,Asia
+North Macedonia,77,14051,1840236,Europe
+Norway,83,88366,5456795,Europe
+Oman,78,47989,4730227,Asia
+Pakistan,67,5532,243700667,Asia
+Palestine,77,4775,5305274,Asia
+Panama,79,23557,4400772,North America
+Paraguay,72,8763,6760461,South America
+Peru,77,12763,33475435,South America
+Philippines,69,8371,113964342,Asia
+Poland,78,32468,38385734,Europe
+Portugal,81,28992,10417075,Europe
+Puerto Rico,79,35281,3240971,North America
+Qatar,82,149171,2892465,Asia
+Romania,75,26198,19166776,Europe
+Russia,73,25437,145579890,Europe
+Rwanda,68,2198,13651026,Africa
+Saint Lucia,73,10452,178794,North America
+Sao Tome and Principe,69,3752,226313,Africa
+Saudi Arabia,77,53517,32175352,Asia
+Senegal,68,2661,17651099,Africa
+Serbia,75,17098,6791218,Europe
+Seychelles,71,31055,125532,Africa
+Sierra Leone,61,1690,8276808,Africa
+Singapore,83,80320,5649886,Asia
+Slovakia,77,27519,5473194,Europe
+Slovenia,81,32674,2115230,Europe
+South Africa,65,11416,62378419,Africa
+South Korea,83,41321,51782514,Asia
+Spain,82,34123,47828386,Europe
+Sri Lanka,77,10705,22834964,Asia
+Sweden,83,47126,10487333,Europe
+Switzerland,83,63323,8792180,Europe
+Syria,73,2495,22462170,Asia
+Taiwan,80,53143,23420107,Asia
+Tajikistan,72,5508,10182229,Asia
+Tanzania,67,3057,64711821,Africa
+Thailand,75,16421,71735320,Asia
+Togo,62,1587,9089742,Africa
+Trinidad and Tobago,73,25773,1495922,North America
+Tunisia,76,10914,12119336,Africa
+Turkey,78,27362,87058470,Asia
+Turkmenistan,70,17235,7230198,Asia
+Uganda,68,2122,47312718,Africa
+Ukraine,73,7749,41048767,Europe
+United Arab Emirates,80,77204,10242085,Asia
+United Kingdom,81,38407,68179315,Europe
+United States,78,58487,341534041,North America
+Uruguay,76,20182,3390913,South America
+Uzbekistan,72,12559,34938955,Asia
+Venezuela,73,5267,28213016,South America
+Vietnam,75,8050,99680656,Asia
+Yemen,68,1959,38222880,Asia
+Zambia,65,3342,20152934,Africa
+Zimbabwe,62,1704,16069061,Africa
